@@ -1,0 +1,15 @@
+h1{
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-decoration: underline;
+    margin-left: 10px;
+}
+p{
+    width: 40%;
+    background-color: rgb(138, 241, 117);
+    color: blue;
+    padding: 20px;
+    font-size: 20px;
+    /* margin: auto; center the paragraph */
+}
